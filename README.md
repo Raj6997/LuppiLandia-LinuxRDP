@@ -23,7 +23,7 @@
 
 ## How to create the VPS:
 
-1. Go to the [RDP - Linux](https://remotedesktop.google.com/u/1/headless)
+1. Go to the [RDP - Linux](https://remotedesktop.google.com/u/1/headless) website
 2. Click on `Start` and on `Next`. Authorize the configuration and copy the code string present in the `Linux-Debian` category.
 3. Go to the [Actions](https://github.com/xLamday/LuppiLandia-LinuxRDP/actions) category and click on `Run Workflow`. On the first required field called `Code for Remote-Desktop` paste the code copied during step 2.
 4. Enter a 6-digit pin number of your choice **[MUST REMEMBER]**
