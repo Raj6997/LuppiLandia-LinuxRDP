@@ -21,7 +21,7 @@
 
 ### If you are on this page, this means that you're interested on how a Linux-VPS work. You can check on the [wiki](https://github.com/xLamday/LuppiLandia-LinuxRDP/wiki/Commands) to look for some commands that are the most used.
 
-## How to create a VPS:
+## How to create the VPS:
 
 1. Go to the [RDP - Linux](https://remotedesktop.google.com/u/1/headless)
 2. Click on `Start` and on `Next`. Authorize the configuration and copy the code string present in the `Linux-Debian` category.
