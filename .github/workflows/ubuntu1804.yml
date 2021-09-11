@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       chrome_access_code:
-        description: https://remotedesktop.google.com/headless
+        description: Code for remote-desktop
         required: true
       pin:
         description: Enter your 6 numbers pin
